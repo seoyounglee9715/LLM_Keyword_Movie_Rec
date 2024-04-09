@@ -1,0 +1,8 @@
+transformer 4.39.3
+protobuf 3.20
+jupyter notebook
+peft 0.10.0
+bitsandbytes 0.43.0
+wandb 0.16.6
+distutils-pytest 0.2.1
+setuptools==59.5.0
